@@ -7,6 +7,9 @@ https://t.me/crypto_tops
 ## Site
 https://retrodrop.pro
 
+## Youtube обзор
+https://youtu.be/ApEX12jJPmE
+
 ## Как работать:
 - Подпишитесь на наш telegram канал https://t.me/crypto_tops
 - Создайте в каталоге со скриптом файл keys.txt
